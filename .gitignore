@@ -1,0 +1,10 @@
+# Build files
+log/
+install/
+build/
+
+# Venv
+venv/
+
+# Ros Tutorials
+ros_tutorials/
