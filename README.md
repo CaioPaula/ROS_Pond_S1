@@ -3,12 +3,12 @@
 ## Estrutura de Pastas
 
 ROS_Pond_S1
-|---- scripts
-|------|-- prepare_workspace.sh
-|---- src
-|------|-- entregador_de_jornal
-|---- .gitignore
-|---- README.md
+    |---- scripts
+    |------|-- prepare_workspace.sh
+    |---- src
+    |------|-- entregador_de_jornal
+    |---- .gitignore
+    |---- README.md
 
 - `scripts`, pasta que possui os arquivos `.sh`.
 - `prepare_workspace.sh`, script que configura todo o workspace ROS, baixando as depencêndias e iniciando o programa da ponderada.
