@@ -9,7 +9,8 @@ ROS_Pond_S1
  |- src
  |--|- entregador_de_jornal
  |- .gitignore
- |- README.md```
+ |- README.md
+```
 
 - `scripts`, pasta que possui os arquivos `.sh`.
 - `prepare_workspace.sh`, script que configura todo o workspace ROS, baixando as depencêndias e iniciando o programa da ponderada.
