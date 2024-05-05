@@ -8,3 +8,6 @@ venv/
 
 # Ros Tutorials
 ros_tutorials/
+
+# VS Code
+*.vscode
